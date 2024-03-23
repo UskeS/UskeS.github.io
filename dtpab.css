@@ -1072,24 +1072,26 @@ a.keyword {
 }
 
 .entry-content h1 {
+    position: relative;
     font-size: 160%;
-    padding: .75em 0;
-    border-top: 2px solid #454545;
-    border-bottom: 2px solid #454545;
+    padding: .75em .5em;
+    background: repeating-linear-gradient(90deg, #85bde9 0%, rgba(255, 255, 255, 0) 100%);
+    color: #fdfdfd;
 }
 
 .entry-content h2 {
     font-size: 150%;
     padding: .5em .75em;
     background-color: #f6f6f6;
-    border-left: 6px solid #85bde9;
+    border-left: 6px solid #488bc0;
 }
 
 .entry-content h3 {
-    font-size: 140%;
+    font-size: 120%;
     position: relative;
-    padding: 0 0 .5em .75em;
-    border-left: 3px solid #85bde9;
+    color: #488bc0;
+    padding: 0 0 .25em .25em;
+    /* border-left: 3px solid #85bde9; */
 }
 
 .entry-content h3::after {
@@ -1103,7 +1105,7 @@ a.keyword {
 }
 
 .entry-content h4 {
-    font-size: 130%;
+    font-size: 110%;
     position: relative;
     padding: 0 .5em .5em 2em;
     border-bottom: 2px solid #454545;
@@ -2027,7 +2029,7 @@ body,
     width: 60px;
     height: 40px;
     padding: 10px 0;
-    border: 3px solid #85bde9;
+    border: 3px solid #69ade0;
     border-radius: 50%;
     background: #fff;
     color: #85bde9;
