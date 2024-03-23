@@ -482,12 +482,12 @@ body {
 }
 
 a {
-    color: #85bde9;
+    color: #6eabda;
     text-decoration: none;
 }
 
 a:hover {
-    color: #95C7A4;
+    color: #5ba4db;
     text-decoration: underline;
 }
 
@@ -696,7 +696,7 @@ a.keyword {
 #menu {
     width: 100%;
     margin: 0 auto;
-    background: #85bde9;
+    background: #6eabda;
     /*７*/
 }
 
@@ -706,7 +706,7 @@ a.keyword {
     /*２*/
 
     margin: 0 auto;
-    background: #85bde9;
+    background: #6eabda;
     /*８*/
 }
 
@@ -744,7 +744,7 @@ a.keyword {
     line-height: 40px;
     /*２*/
 
-    background: #85bde9;
+    background: #6eabda;
     /*９*/
 
     color: #fff;
@@ -804,7 +804,7 @@ a.keyword {
     line-height: 40px;
     /*５*/
 
-    background: #85bde9;
+    background: #6eabda;
     /*13*/
 
     color: #fff;
@@ -843,7 +843,7 @@ a.keyword {
         padding: 8px 15px;
         margin: 5px;
         cursor: pointer;
-        background: #85bde9;
+        background: #6eabda;
         /*17*/
 
         color: #fff;
@@ -952,10 +952,10 @@ a.keyword {
     width: 60px;
     height: 40px;
     padding: 10px 0;
-    border: 3px solid #85bde9;
+    border: 3px solid #6eabda;
     border-radius: 50%;
     background: #fff;
-    color: #85bde9;
+    color: #6eabda;
     text-align: center;
     line-height: 20px;
     font-family: Helvetica, Arial, sans-serif;
@@ -978,7 +978,7 @@ a.keyword {
 }
 
 .archive-entry .date a {
-    color: #85bde9;
+    color: #6eabda;
     line-height: 20px;
     font-family: Helvetica, Arial;
     font-size: 12px;
@@ -996,14 +996,14 @@ a.keyword {
     margin: 0 4px 4px 0;
     padding: 6px 10px;
     font-size: 87.5%;
-    border: 1px solid #85bde9;
+    border: 1px solid #6eabda;
     border-radius: 2px;
-    color: #85bde9;
+    color: #6eabda;
     text-decoration: none;
 }
 
 .categories a:hover {
-    color: #85bde9;
+    color: #6eabda;
     background-color: #f8f8f8;
 }
 
@@ -1075,7 +1075,7 @@ a.keyword {
     position: relative;
     font-size: 160%;
     padding: .75em .5em;
-    background: repeating-linear-gradient(90deg, #85bde9 0%, rgba(255, 255, 255, 0) 100%);
+    background: repeating-linear-gradient(90deg, #6caee0 0%, rgba(190, 245, 255, 0.6) 100%);
     color: #fdfdfd;
 }
 
@@ -1091,7 +1091,7 @@ a.keyword {
     position: relative;
     color: #488bc0;
     padding: 0 0 .25em .25em;
-    /* border-left: 3px solid #85bde9; */
+    /* border-left: 3px solid #6eabda; */
 }
 
 .entry-content h3::after {
@@ -1124,7 +1124,7 @@ a.keyword {
     z-index: 2;
     width: 18px;
     height: 18px;
-    background: #85bde9;
+    background: #6eabda;
 }
 
 .entry-content h4::after {
@@ -1344,7 +1344,7 @@ a.entry-see-more {
     height: 50px;
     margin: 5px 0 5px 0;
     line-height: 50px;
-    background-color: #85bde9;
+    background-color: #6eabda;
     border-radius: 4px;
     text-align: center;
     color: #fff !important;
@@ -1354,7 +1354,7 @@ a.entry-see-more {
 
 a.entry-see-more:hover {
     color: #fff !important;
-    background-color: #85bde9;
+    background-color: #6eabda;
     opacity: 0.8;
 }
 
@@ -1373,7 +1373,7 @@ a.entry-see-more:hover {
     font-weight: bold;
     margin-bottom: 15px;
     font-size: 120%;
-    color: #85bde9;
+    color: #6eabda;
 }
 
 .hatena-module-title {
@@ -1383,7 +1383,7 @@ a.entry-see-more:hover {
 }
 
 .hatena-module-title a {
-    color: #85bde9;
+    color: #6eabda;
     text-decoration: none;
 }
 
@@ -1442,12 +1442,12 @@ a.entry-see-more:hover {
 
 .hatena-urllist li a {
     text-decoration: none;
-    color: #85bde9;
+    color: #6eabda;
 }
 
 .hatena-urllist li a:hover {
     text-decoration: underline;
-    color: #95C7A4;
+    color: #599bcd;
 }
 
 /* Search module */
@@ -1509,7 +1509,7 @@ a.entry-see-more:hover {
 
 .pager a {
     display: inline-block;
-    color: #85bde9;
+    color: #6eabda;
     text-decoration: none;
 }
 
@@ -1523,7 +1523,7 @@ a.entry-see-more:hover {
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
-    background-color: #85bde9;
+    background-color: #6eabda;
     color: #fff;
     font-size: 24px;
     text-align: center;
@@ -1545,7 +1545,7 @@ a.entry-see-more:hover {
 .category-page {
     padding: 20px;
     margin: 10px 0 10px 0;
-    border: 2px solid #85bde9;
+    border: 2px solid #6eabda;
     border-radius: 5px;
     text-align: center;
 }
@@ -1557,7 +1557,7 @@ a.entry-see-more:hover {
 }
 
 .category-page a {
-    color: #85bde9;
+    color: #6eabda;
 }
 
 /* Footer */
@@ -1581,7 +1581,7 @@ a.entry-see-more:hover {
 #copyright {
     width: 100%;
     margin: 0 auto;
-    background: #85bde9;
+    background: #6eabda;
     font-size: 12px;
     color: #fff;
     text-align: center;
@@ -1742,7 +1742,7 @@ a.sns-link:hover {
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #85bde9;
+    background-color: #6eabda;
     border-radius: 50px;
     text-align: center;
     color: #fff;
@@ -1756,7 +1756,7 @@ a.sns-link:hover {
 }
 
 .pagetop a:hover {
-    background-color: #85bde9;
+    background-color: #6eabda;
     -ms-filter: "alpha(opacity=50)";
     -moz-opacity: 0.5;
     -khtml-opacity: 0.5;
@@ -1802,7 +1802,7 @@ a.sns-link:hover {
 .page-archive .categories a {
     color: #fff;
     font-size: 70%;
-    background: #85bde9;
+    background: #6eabda;
     padding: 3px 5px;
     border-radius: 3px;
     text-decoration: none;
@@ -1866,10 +1866,10 @@ body,
         width: 60px;
         height: 40px;
         padding: 10px 0;
-        border: 3px solid #85bde9;
+        border: 3px solid #6eabda;
         border-radius: 50%;
         background: #fff;
-        color: #85bde9;
+        color: #6eabda;
         text-align: center;
         line-height: 20px;
         font-size: 11px;
@@ -1957,10 +1957,10 @@ body,
         width: 60px;
         height: 40px;
         padding: 10px 0;
-        border: 3px solid #85bde9;
+        border: 3px solid #6eabda;
         border-radius: 50%;
         background: #fff;
-        color: #85bde9;
+        color: #6eabda;
         text-align: center;
         line-height: 20px;
         font-size: 11px;
@@ -2032,7 +2032,7 @@ body,
     border: 3px solid #69ade0;
     border-radius: 50%;
     background: #fff;
-    color: #85bde9;
+    color: #6eabda;
     text-align: center;
     line-height: 20px;
     font-size: 11px;
@@ -2046,7 +2046,7 @@ body,
     display: block;
     width: 30px;
     height: 30px;
-    background-color: #85bde9;
+    background-color: #6eabda;
     border-radius: 50px;
     text-align: center;
     color: #fff;
