@@ -1087,7 +1087,7 @@ a.keyword {
     font-size: 150%;
     padding: .5em .75em;
     background-color: #f6f6f6;
-    border-left: 6px solid #488bc0;
+    border-left: 6px dashed #488bc0;
 }
 
 .entry-content h3 {
