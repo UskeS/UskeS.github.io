@@ -142,6 +142,10 @@ h1 {
     margin: 0.67em 0;
 }
 
+h1 code {
+    color: #999;
+}
+
 /**
  * Address styling not present in IE 8/9.
  */
@@ -1075,7 +1079,7 @@ a.keyword {
     position: relative;
     font-size: 160%;
     padding: .75em .5em;
-    background: repeating-linear-gradient(90deg, #6caee0 0%, rgba(190, 245, 255, 0.6) 100%);
+    background: repeating-linear-gradient(90deg, #6caee0 0%, rgba(240, 230, 220, 0.8) 100%);
     color: #fdfdfd;
 }
 
